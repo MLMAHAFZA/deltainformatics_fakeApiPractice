@@ -20,7 +20,7 @@ The Categories screen shows what are the available categories in the shop
 
 ## Create Product Screen
 
-The onboarding screen is designed to introduce users to the key features and benefits of the app. It often includes swipable slides with information about the app's functionality.
+The Create product Screen enables the user to add a new product ,all he needs to do is to capture or select an image ,add a name, add a description , select the category for the product and finally add a price.
 
 <img src="assets/images/create.png" alt="  Create Product Screen" width="200"/>
 
