@@ -1,6 +1,6 @@
 # Flutter BLoC Example
 
-A Flutter project showcasing the BLoC (Business Logic Component) pattern for state management. The application includes a splash screen, onboarding screen, login screen, and profile screen.
+A Flutter project showcasing the BLoC (Business Logic Component) pattern for state management. The application includes a splash screen, home screen , categories screen , create product screen .
 
 ## API Dummy uses
 * https://fakestoreapi.com/
